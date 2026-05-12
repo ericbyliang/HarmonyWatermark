@@ -1,0 +1,10 @@
+{
+  "name": "@ericbyliang/lib_watermark",
+  "version": "1.0.4",
+  "description": "A HarmonyOS watermark component supporting security watermark overlay.",
+  "main": "Index.ets",
+  "keywords": ["水印", "wateramrk", "安全水印"],
+  "author": "eric",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
